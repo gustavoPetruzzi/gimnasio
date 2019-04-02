@@ -1,0 +1,12 @@
+Tipos		--> Pecho
+		--> Espalda
+		--> Piernas
+		--> Biceps
+		--> Triceps 
+
+Ejercicio	--> id
+		--> nombre
+		--> serie[]
+		--> tipo
+		--> Comentarios
+		
